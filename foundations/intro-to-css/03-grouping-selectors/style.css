@@ -1,0 +1,14 @@
+.black-banner,
+.yellow-banner {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.black-banner {
+    background-color: black;
+    color: white;
+}
+
+.yellow-banner {
+    background-color: yellow;
+}
